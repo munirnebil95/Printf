@@ -1,4 +1,4 @@
-#My Printf
+# MY Printf
 
 •	A reimplementation of C’s built-in print function
 
